@@ -16,6 +16,7 @@ int main()
    cout << "Another feature" << endl;
    
    cout << "The answer is: " << 44 - 2 << endl;
+   cout << "And the answer is: " << 41 + 1 << endl;
 
    return 0;
 }
