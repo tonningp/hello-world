@@ -17,6 +17,7 @@ int main()
    
    cout << "The answer is: " << 44 - 2 << endl;
    cout << "And the answer is: " << 41 + 1 << endl;
+   cout << "Some new hello command: " << 41 + 1 << endl;
 
    return 0;
 }
