@@ -13,6 +13,7 @@ int main()
 {
    cout << "New Feature" << endl;
 
+   cout << "Another feature" << endl;
 
    return 0;
 }
